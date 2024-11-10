@@ -1,0 +1,64 @@
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\matchmaking.exe
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\matchmaking.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\matchmaking.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\matchmaking.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets\msbuild.matchmaking.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets\msbuild.build.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\scopedcss\bundle\matchmaking.styles.css
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\refint\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\matchmaking.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 3 -מערכת כרטיסים\Tickets\obj\Debug\net6.0\ref\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\matchmaking.exe
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\matchmaking.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\matchmaking.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\matchmaking.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets\msbuild.matchmaking.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets\msbuild.build.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.matchmaking.props
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\scopedcss\bundle\matchmaking.styles.css
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\refint\matchmaking.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\matchmaking.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 4 - מערכת שידוכים טוב\MatchMaking\obj\Debug\net6.0\ref\matchmaking.dll
